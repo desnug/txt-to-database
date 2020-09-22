@@ -1,8 +1,8 @@
 # txt-to-database
-Data txt to database,
+
 arti di nama file:.
 
-STA3215202006180240.
+STA3215202006180240.txt
 
 STA3215 = ID Alat.
 
